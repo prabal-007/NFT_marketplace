@@ -115,7 +115,7 @@ function App() {
         <>
             <div className="container">
             <br/>
-            <h1> 🔮 metaschool</h1>
+            <h1> 🔮 Stark's</h1>
           
              <h2>NFT Marketplace</h2>
                 {data.map((item, index) => (
